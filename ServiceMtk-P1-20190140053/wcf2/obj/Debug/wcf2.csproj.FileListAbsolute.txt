@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Camtasia\wcf2\wcf2\bin\Debug\wcf2.dll.config
+C:\Users\HP\Documents\Camtasia\wcf2\wcf2\bin\Debug\wcf2.dll
+C:\Users\HP\Documents\Camtasia\wcf2\wcf2\bin\Debug\wcf2.pdb
+C:\Users\HP\Documents\Camtasia\wcf2\wcf2\obj\Debug\wcf2.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Camtasia\wcf2\wcf2\obj\Debug\wcf2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Camtasia\wcf2\wcf2\obj\Debug\wcf2.dll
+C:\Users\HP\Documents\Camtasia\wcf2\wcf2\obj\Debug\wcf2.pdb
